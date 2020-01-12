@@ -1,2 +1,2 @@
 # Integer Kata
-This is my submission to the pre-work assignment that is part of the Ironhack Web Development course. Basically the function takes the two lowest positive integers in a given array and sums them.
+This is my submission to the pre-work assignment that is part of the Ironhack Web Development course. Basically the function takes the two lowest positive integers in a given array and sums those two numbers if they are positive.
